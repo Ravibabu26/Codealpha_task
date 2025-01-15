@@ -1,0 +1,12 @@
+/ecommerce-store
+  /client (Front-End)
+    /index.html
+    /styles.css
+    /script.js
+  /server (Back-End)
+    /models
+      Product.js
+    /routes
+      productRoutes.js
+    server.js
+  package.json
